@@ -6,7 +6,7 @@ DOT language.
 
 ## Example
 
-[example graph](doc/org.hsqldb.WebServer.getProtocol.png)
+![graph](doc/org.hsqldb.WebServer.getProtocol.png?raw=true "Example graph of method WebServer.getProtocol()")
 
 ## Dependencies
 
