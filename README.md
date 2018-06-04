@@ -4,6 +4,10 @@ A graph implementation that supports export into the [Graph eXchange
 Language](www.gupro.de/GXL) and the [Graphviz](www.graphviz.org/documentation) 
 DOT language.
 
+## Example
+
+[example graph](doc/org.hsqldb.WebServer.getProtocol.png)
+
 ## Dependencies
 
 [xmls](www.common-lisp.net/project/xmls) - Version 1.2
